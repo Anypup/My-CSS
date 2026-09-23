@@ -1,0 +1,62 @@
+/* This is RIDDLED with errors. What the fuck is a "fontspring bulletproof syntax"????*/
+body { 
+  background-image:url("https://anypup.neocities.org/IMG/Bliss.png");
+  background-size: cover;
+  
+        color:#0010aa;
+        font-family: Frutiger,serif;
+        font-size:19px;
+        margin:0 auto;
+        text-align:center;
+        }
+      h1 {
+        color:#0d2136;
+        text-align:center;
+      }
+      h3 {
+        color:#21578C
+      }
+      h2 {
+        color:#00AAFF
+      }
+      .this {
+        background: linear-gradient(#f4fff9, #c9f2ff);
+        color:black;
+        border:3px solid #88CC00 ;
+        border-radius:5px;
+        padding:2px;
+        box-shadow:0 4px 8px;
+        margin:3px 0;
+      }
+      .that {
+        background: linear-gradient(#c9f2ff, #f4fff9);
+        color:black;
+        border:2px solid skyblue;
+        border-radius:3px;
+        padding:15px;
+        box-shadow:0 4px 8px;
+        margin:7px 0;
+      }
+      a {
+  color: #00aaff;
+}
+a:hover {
+  color:green;
+}
+a:visited {
+color:green;
+}
+
+.green {
+background: linear-gradient(#88CC00, #92DB00, #B5FD26);
+border:3px solid #92E920;
+border-radius:5px;
+padding:2px 2;
+box-shadow:0 4px 8px;
+margin:3px 0;
+}
+
+@font-face { 
+	font-family: "Frutiger"; 
+	src: url("./Font/Frutiger.ttf") format("truetype"); 
+	font-weight: normal}
