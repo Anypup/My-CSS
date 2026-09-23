@@ -6,5 +6,6 @@ The CSS I use for my site :)
 + You get to use it yayy :D
 + Responsive layout
 - You have to credit me somehow.
+- Filled with errors because I'm a beginner.
 
 # Thank you for reading!! :)
